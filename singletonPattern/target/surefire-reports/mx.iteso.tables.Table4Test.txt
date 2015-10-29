@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: mx.iteso.tables.Table4Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE!
+mx.iteso.tables.Table4Test.testDrinks()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.tables.Table4Test.testDrinks(Table4Test.java:38)
+
+mx.iteso.tables.Table4Test.testDishes()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.tables.Table4Test.testDishes(Table4Test.java:26)
+
+mx.iteso.tables.Table4Test.testTableName()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at mx.iteso.tables.Table4Test.testTableName(Table4Test.java:21)
+
